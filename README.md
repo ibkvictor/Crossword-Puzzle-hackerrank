@@ -36,6 +36,11 @@ Least Common Value for selecting vales to assign an unassigned variable by order
 
 ## Results
 
+![alt text](https://github.com/ibkvictor/Crossword-Puzzle-hackerrank/blob/main/Screen%20Shot%202020-11-21%20at%2004.01.07.png?raw=true)
+
+Passing all the test cases on Hackerrank:
+![alt text](https://github.com/ibkvictor/Crossword-Puzzle-hackerrank/blob/main/Screen%20Shot%202020-11-21%20at%2004.01.29.png?raw=true)
+
 
 ## Challenge Source
 https://www.hackerrank.com/challenges/crossword-puzzle/problem
