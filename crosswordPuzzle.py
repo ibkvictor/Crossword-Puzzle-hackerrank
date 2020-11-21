@@ -50,6 +50,9 @@ def crosswordPuzzle(crossword, words):
                             break
                     var = Variable(length, (i,j), (end, j), "down")
                     variables.append(var)
+                   
+                if startsword:  #avoid making a second variable at the same point
+                    continue
                     
                 if crossword[i][j] == "-":
                     if j != len(crossword) - 1 and j != 0:
